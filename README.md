@@ -1,1 +1,1 @@
-# sharImAges
+# SharImAges, a tool and social images network by TheoDev
